@@ -25,6 +25,7 @@ export function InputSearch({ onSubmit }) {
       type='text' 
       name='cityName'
       value={cityName} 
+      autoComplete="off"
       placeholder='Enter city name'
       onChange={e => setCityName(e.target.value)}
       onKeyDown={isCityNameNotEmpty ? handleKeyDown : null}
