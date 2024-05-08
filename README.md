@@ -1,6 +1,6 @@
 # Weather App
 
-is an intuitive, user-friendly app that provides real-time weather updates. Designed with simplicity in mind, it offers a clean interface showcasing the current and weekly weather conditions for any location worldwide.
+**Weather App** is an intuitive, user-friendly application that provides real-time weather updates. Designed with simplicity in mind, it offers a clean interface showcasing the current and weekly weather conditions for any location worldwide.
 
 ## Features
 
@@ -13,6 +13,7 @@ is an intuitive, user-friendly app that provides real-time weather updates. Desi
 
 - **React JS**
 - **CSS**
+- **Vite**
 
 ## Visuals
 
